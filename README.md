@@ -1,45 +1,49 @@
-### 👋 Hi there, I'm Akinlade Rebecca!
+## 👋 Hi, I’m Rebecca
 
-I'm a passionate full-stack software developer with a strong focus on building clean, efficient, and scalable applications using **TypeScript**. I specialize in **NestJS** for backend development and **React/Next.js** for the frontend, creating solutions that are both developer-friendly and user-focused.
-
----
-
-### 💼 What I’ve Been Up To:
-
-- 🧑‍💻 **Built RESTful APIs with NestJS** – including authentication systems, admin/user role separation, and integration with file upload and feedback features.
-- 🔐 Implemented **role-based access control** in projects, ensuring secure and efficient workflows between admin and user dashboards.
-- 📄 Created a **Resume/Portfolio Review Platform** that streamlines the journey for aspiring tech professionals to receive feedback, get guidance, and track job readiness.
-- ✅ Designed and developed **interactive tech checklists**, job search guides, and real-time status updates using React, Tailwind CSS, and Next.js.
-- 🔄 Built dynamic dashboards for both users and admins with smooth UX, responsive design, and state management.
-- 💬 Integrated features like **feedback forms**, **session scheduling**, and **automatic review status updates**, making communication seamless between admins and users.
+I'm a full-stack developer focused on building scalable, user-centered applications. I work primarily with **TypeScript**, using **NestJS** for backend development and **React/Next.js** for modern frontend experiences. I value clean architecture, intuitive design, and writing code that solves real problems.
 
 ---
 
-### ⚙️ Tech Stack:
+### 💼 What I Do
 
-- **Languages**: TypeScript, JavaScript, Java  
-- **Backend**: NestJS, Express.js, Spring Boot  
-- **Frontend**: React, Next.js  
-- **Styling**: Tailwind CSS, Shadcn/UI  
-- **Tools**: Git & GitHub, VS Code, Postman, IntelliJ IDEA  
-- **Database**: PostgreSQL, MongoDB (exploring more...)
+- 🔧 Develop RESTful APIs with **NestJS**, **Express.js**
+- 🎨 Build responsive UIs with **React**, **Next.js**, and **Tailwind CSS**
+- ✅ Create platforms for portfolio reviews and career readiness
+- 🔐 Implement secure, role-based authentication systems
 
 ---
 
-### 🚀 Learning Goals:
+### 🧰 Tech Stack
 
-- Master advanced NestJS concepts
-- Deepen my testing skills with **Jest** and **integration testing**
-- Build robust, production-ready apps with real-time capabilities (e.g., WebSockets, Notifications)
-- Contribute to open-source projects and grow within the tech community
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-010101?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Let’s Connect:
+### 📈 GitHub Stats
 
-- 📧 rebeccaakinlade04@gmail.com
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rebexcode&show_icons=true&theme=default" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebexcode&layout=compact&theme=default" height="140" />
+</p>
 
 ---
 
-> ✨ *Always learning. Always building. Always improving.*
+### 📫 Let’s Connect
 
+- 📩 akinladerebecca04@gmail.com
+
+---
