@@ -33,12 +33,11 @@ I'm a full-stack developer focused on building scalable, user-centered applicati
 
 ---
 
-### 📈 GitHub Stats
+#### 📈 Github Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rebexcode&show_icons=true&theme=default" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebexcode&layout=compact&theme=default" height="140" />
-</p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=rebexcode&count_private=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rebexcode)](https://git.io/streak-stats)
 
 ---
 
